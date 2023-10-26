@@ -1,8 +1,7 @@
-- 👋 Hi, I’m João Victor Gonçalves
-- 👀 I’m interested in ... Programar
-- 🌱 I’m currently learning ... Análise E Desenvolvimento De Sistemas
-- 💞️ I’m looking to collaborate on ... Com uma empresa kkk
-- 📫 How to reach me ... Direct by: joao.victtor___
+-  Hi, I’m João Victor Gonçalves
+-  I’m interested in ... programming
+-  I’m currently learning ... Analysis and systems development
+-  How to reach me ... Direct by: joao.victtor___
 
 <!---
 joaoLeite77/joaoLeite77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
